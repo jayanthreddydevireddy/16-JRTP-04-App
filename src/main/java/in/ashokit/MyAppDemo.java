@@ -10,8 +10,14 @@ public class MyAppDemo {
 		System.out.println(k);
 
 	}
+
 	public void loadDataToCache(){
 	  //logic
 	}
+
+	public String name(){
+	return "";
+        }
+
 
 }
