@@ -10,5 +10,8 @@ public class MyAppDemo {
 		System.out.println(k);
 
 	}
+	public String name(){
+	return "";
+        }
 
 }
